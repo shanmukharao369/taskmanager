@@ -1,0 +1,51 @@
+.container{
+    border: "1px solid black";
+    background: rgb(11, 166, 197);
+    margin: 100px auto;
+    padding: 10px;
+    width: 800px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+}
+
+.smallcontainer{
+    border: "1px solid black";
+    background: rgb(34, 220, 186);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.newcontainer{
+    border: "1px solid black";
+    background: rgb(129, 197, 11);
+    margin: 100px auto;
+    padding: 10px;
+    width: 800px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+}
+
+.newsmallcontainer{
+    border: "1px solid black";
+    background: rgb(34, 170, 220);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.txt{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lnk{
+    color: rgb(162, 255, 0);
+    font-family: serif;
+
+}
+
+.lnk:hover{
+    color: green;
+    text-decoration: none;
+}
